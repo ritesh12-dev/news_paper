@@ -1,0 +1,3 @@
+table - 
+we use tr tag for (row) in a table tag...
+col - for col we use td tag 
